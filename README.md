@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I’m Harmony
 
-<!--
-**hvrmonymvrie/Hvrmonymvrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student. Curious about how things work. Even more curious about how they break.
 
-Here are some ideas to get you started:
+### 🧠 What I’m learning
+- **Bash / Command Line** – exploring Linux, scripting, and automation  
+- **C** – understanding programs from the inside out  
+- **Python** – turning problems into scripts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Interests
+- Skip tracing and OSINT  
+- How systems are built and manipulated  
+- Psychology and human behavior
+
+### 🌱 How I learn
+- Push buttons and see what happens  
+- Figure out why the buttons did what they did  
+- Apply what I learned immediately  
+
+### 📌 Goals
+- Get comfortable working in Linux environments  
+- Strengthen fundamentals in C and Python  
+- Build practical cybersecurity skills through small projects  
+
+<p align="center">🌱✨💻</p>
